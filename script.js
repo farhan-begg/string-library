@@ -10,6 +10,7 @@ String.prototype.capitalize = () => capitalize(this);
 function allCaps(str) {
     return str.toUpperCase();
 }
+
 console.log(allCaps('teafdsadfdsfst  kaflnafs'));
 
 String.prototype.allcaps = () => allCaps(this);
