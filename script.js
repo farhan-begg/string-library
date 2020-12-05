@@ -90,3 +90,5 @@ module.exports.kabobCase = kabobCase;
 module.exports.snakeCase = snakeCase;
 module.exports.camelCase = camelCase;
 module.exports.shiftString = shiftString;
+
+export default Script;
